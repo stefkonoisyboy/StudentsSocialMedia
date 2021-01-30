@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/Identity" Path="C:\Users\user\.nuget\packages\microsoft.aspnetcore.identity.ui\5.0.1\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/StudentsSocialMedia.Web" Path="C:\Users\user\Downloads\SocialMediaForStudents-master (1)\SocialMediaForStudents-master\Web\StudentsSocialMedia.Web\wwwroot\" />
+</StaticWebAssets>

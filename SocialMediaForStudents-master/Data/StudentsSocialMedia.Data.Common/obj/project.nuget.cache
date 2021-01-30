@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PUQvMlNpCSlVtbQzb8UbACOsItJs8yqi9MJKxU0ZpeG5vA3ohQgwlCR51pENKyWTGWgvwnfcovlgHMXMgYFAhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\SocialMediaForStudents\\SocialMediaForStudents-master\\Data\\StudentsSocialMedia.Data.Common\\StudentsSocialMedia.Data.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
