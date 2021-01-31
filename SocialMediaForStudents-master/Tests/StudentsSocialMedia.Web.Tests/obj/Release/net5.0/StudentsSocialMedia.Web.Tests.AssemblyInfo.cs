@@ -12,10 +12,10 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("StudentsSocialMedia.Data", "C:\\Users\\User\\source\\repos\\stefkonoisyboy\\SocialMediaForStudents\\Data\\StudentsSoc" +
-    "ialMedia.Data", "StudentsSocialMedia.Data.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("StudentsSocialMedia.Web", "C:\\Users\\User\\source\\repos\\stefkonoisyboy\\SocialMediaForStudents\\Web\\StudentsSoci" +
-    "alMedia.Web", "StudentsSocialMedia.Web.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("StudentsSocialMedia.Data", "D:\\Users\\Desktop\\SSM\\StudentsSocialMedia\\SocialMediaForStudents-master\\Data\\Stude" +
+    "ntsSocialMedia.Data", "StudentsSocialMedia.Data.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("StudentsSocialMedia.Web", "D:\\Users\\Desktop\\SSM\\StudentsSocialMedia\\SocialMediaForStudents-master\\Web\\Studen" +
+    "tsSocialMedia.Web", "StudentsSocialMedia.Web.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentsSocialMedia.Web.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

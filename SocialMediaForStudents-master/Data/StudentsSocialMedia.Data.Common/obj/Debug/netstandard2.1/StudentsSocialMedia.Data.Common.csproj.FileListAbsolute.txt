@@ -52,3 +52,12 @@ C:\Users\user\Desktop\SocialMediaForStudents\SocialMediaForStudents-master\Data\
 C:\Users\user\Desktop\SocialMediaForStudents\SocialMediaForStudents-master\Data\StudentsSocialMedia.Data.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Data.Common.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\SocialMediaForStudents\SocialMediaForStudents-master\Data\StudentsSocialMedia.Data.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Data.Common.dll
 C:\Users\user\Desktop\SocialMediaForStudents\SocialMediaForStudents-master\Data\StudentsSocialMedia.Data.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Data.Common.pdb
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Data\StudentsSocialMedia.Data.Common\bin\Debug\netstandard2.1\StudentsSocialMedia.Data.Common.deps.json
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Data\StudentsSocialMedia.Data.Common\bin\Debug\netstandard2.1\StudentsSocialMedia.Data.Common.dll
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Data\StudentsSocialMedia.Data.Common\bin\Debug\netstandard2.1\StudentsSocialMedia.Data.Common.pdb
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Data\StudentsSocialMedia.Data.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Data.Common.csprojAssemblyReference.cache
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Data\StudentsSocialMedia.Data.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Data.Common.AssemblyInfoInputs.cache
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Data\StudentsSocialMedia.Data.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Data.Common.AssemblyInfo.cs
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Data\StudentsSocialMedia.Data.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Data.Common.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Data\StudentsSocialMedia.Data.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Data.Common.dll
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Data\StudentsSocialMedia.Data.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Data.Common.pdb
