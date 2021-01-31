@@ -52,3 +52,12 @@ C:\Users\user\Desktop\SocialMediaForStudents\SocialMediaForStudents-master\Stude
 C:\Users\user\Desktop\SocialMediaForStudents\SocialMediaForStudents-master\StudentsSocialMedia.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Common.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\SocialMediaForStudents\SocialMediaForStudents-master\StudentsSocialMedia.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Common.dll
 C:\Users\user\Desktop\SocialMediaForStudents\SocialMediaForStudents-master\StudentsSocialMedia.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Common.pdb
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\StudentsSocialMedia.Common\bin\Debug\netstandard2.1\StudentsSocialMedia.Common.deps.json
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\StudentsSocialMedia.Common\bin\Debug\netstandard2.1\StudentsSocialMedia.Common.dll
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\StudentsSocialMedia.Common\bin\Debug\netstandard2.1\StudentsSocialMedia.Common.pdb
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\StudentsSocialMedia.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Common.csprojAssemblyReference.cache
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\StudentsSocialMedia.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Common.AssemblyInfoInputs.cache
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\StudentsSocialMedia.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Common.AssemblyInfo.cs
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\StudentsSocialMedia.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Common.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\StudentsSocialMedia.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Common.dll
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\StudentsSocialMedia.Common\obj\Debug\netstandard2.1\StudentsSocialMedia.Common.pdb

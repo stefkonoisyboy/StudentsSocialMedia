@@ -34,3 +34,12 @@ C:\Users\user\Downloads\SocialMediaForStudents-master (1)\SocialMediaForStudents
 C:\Users\user\Downloads\SocialMediaForStudents-master (1)\SocialMediaForStudents-master\Web\StudentsSocialMedia.Web.Infrastructure\obj\Debug\netstandard2.1\StudentsSocialMedia.Web.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\user\Downloads\SocialMediaForStudents-master (1)\SocialMediaForStudents-master\Web\StudentsSocialMedia.Web.Infrastructure\obj\Debug\netstandard2.1\StudentsSocialMedia.Web.Infrastructure.dll
 C:\Users\user\Downloads\SocialMediaForStudents-master (1)\SocialMediaForStudents-master\Web\StudentsSocialMedia.Web.Infrastructure\obj\Debug\netstandard2.1\StudentsSocialMedia.Web.Infrastructure.pdb
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Web\StudentsSocialMedia.Web.Infrastructure\bin\Debug\netstandard2.1\StudentsSocialMedia.Web.Infrastructure.deps.json
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Web\StudentsSocialMedia.Web.Infrastructure\bin\Debug\netstandard2.1\StudentsSocialMedia.Web.Infrastructure.dll
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Web\StudentsSocialMedia.Web.Infrastructure\bin\Debug\netstandard2.1\StudentsSocialMedia.Web.Infrastructure.pdb
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Web\StudentsSocialMedia.Web.Infrastructure\obj\Debug\netstandard2.1\StudentsSocialMedia.Web.Infrastructure.csprojAssemblyReference.cache
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Web\StudentsSocialMedia.Web.Infrastructure\obj\Debug\netstandard2.1\StudentsSocialMedia.Web.Infrastructure.AssemblyInfoInputs.cache
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Web\StudentsSocialMedia.Web.Infrastructure\obj\Debug\netstandard2.1\StudentsSocialMedia.Web.Infrastructure.AssemblyInfo.cs
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Web\StudentsSocialMedia.Web.Infrastructure\obj\Debug\netstandard2.1\StudentsSocialMedia.Web.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Web\StudentsSocialMedia.Web.Infrastructure\obj\Debug\netstandard2.1\StudentsSocialMedia.Web.Infrastructure.dll
+D:\Users\Desktop\SSM\StudentsSocialMedia\SocialMediaForStudents-master\Web\StudentsSocialMedia.Web.Infrastructure\obj\Debug\netstandard2.1\StudentsSocialMedia.Web.Infrastructure.pdb
