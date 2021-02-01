@@ -25,7 +25,7 @@ namespace StudentsSocialMedia.Services.Data.Tests
             {
                 new Post
                 {
-                    Id = "1",
+                    Id = "2",
                     Content = "testContent1",
                     SubjectId = "1",
                     CreatorId = "1",
