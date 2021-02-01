@@ -1,0 +1,17 @@
+﻿@model StudentsSocialMedia.Web.ViewModels.Hobbies.CreateHobbyInputModel
+@{ 
+    this.ViewData["Title"] = "Add a new hobby";
+} 
+
+<form method="post" class="col-md-6 offset-md-3">
+    <h1>@this.ViewData["Title"]</h1>
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="HobbyId"></label>
+        <select asp-for="HobbyId" asp-items="this.Model.Hobbies" class="form-control"></select>
+        <span asp-validation-for="HobbyId" class="text-danger"></span>
+    </div>
+    <input type="submit" class="btn btn-primary btn-md-2" value="Submit" />
+</form>
